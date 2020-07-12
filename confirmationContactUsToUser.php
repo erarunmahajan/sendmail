@@ -1,7 +1,6 @@
 <?php
 $to = "er.arun.mahajan@gmail.com";
 $subject = "HTML email";
-echo $_GET['name'];
 $message = "
 <html>
 <head>
